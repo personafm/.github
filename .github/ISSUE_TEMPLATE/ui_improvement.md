@@ -2,7 +2,7 @@
 name: UI Improvement
 about: Create a issue for UI improvements
 title: ''
-labels: ''
+labels: 'ui'
 assignees: ''
 
 ---
