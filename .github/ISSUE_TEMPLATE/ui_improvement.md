@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the Imrprovement**
+**Describe the Issue/Requested Change**
 A clear and concise description of what should be changed.
 
 **Additional context**
