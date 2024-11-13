@@ -8,6 +8,8 @@ We welcome and encourage open source contributors! To get started, head over to 
 
 Additionally, you can check out our [contributing guide](https://github.com/personafm/.github/blob/main/contributing.md) to familiarize yourself with our contribution guidelines!
 
-New to open-source contributions? Check out this [guide](https://opensource.guide/how-to-contribute/) to learn how to get started. If you are new to open-source contribution, we reccommend that you check out our first-contribution repository to get a better understand of how open-source contribution works.
+New to open-source contributions? Check out this [guide](https://opensource.guide/how-to-contribute/) to learn more. 
+
+If you are new to open-source contribution, we reccommend that you check out our first-contribution repository to get a better understanding of how open-source contribution works and try your hand at making a contribution prior to working on an issue for persona.fm
 
 As always, if you have any questions, comments, or concerns please feel free to email us at dev@personafm.com, open an Github issue, respond to a Github Discussion, or DM us on Instagram @personafmapp
