@@ -8,7 +8,7 @@ We welcome and encourage open source contributors! To get started, head over to 
 
 Additionally, you can check out our [contributing guide](https://github.com/personafm/.github/blob/main/contributing.md) to familiarize yourself with our contribution guidelines!
 
-## First Contribution Repository
+### First Contribution Repository
 
 If you are new to open-source contribution, we reccommend that you check out our first-contribution repository to get a better understanding of how open-source contribution works and learn how to make your first contribution!
 
