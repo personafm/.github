@@ -1,6 +1,6 @@
 # Welcome to Persona.fm!
 
-Persona.fm is an open source web application that uses Last.fm data along with OpenAI's API to generate music personas for Last.fm users!
+Persona.fm is an open source web application that uses Last.fm data along with OpenAI's API to generate music personas for Last.fm users! While our main goal is to build and improve Persona.fm, we also aim to be a place that supports open-source contribution, especially for new contributors!
 
 ## Looking to contribute?
 
