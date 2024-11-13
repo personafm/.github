@@ -18,3 +18,7 @@ Thank you for considering contributing to our project! Here are some guidelines 
 ## Running Tests
 
 Github Actions will run various workflows on pull requests. Please ensure all workflows pass on your pull requests. If you are unable to troubleshoot to fix failing workflows, please let me know in a pull request comment
+
+## New to Contributing?
+
+We reccommend you check out our first-contribution repository if you want to familiarize yourself with open-source contribution!
