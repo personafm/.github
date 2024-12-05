@@ -11,3 +11,7 @@ Additionally, you can check out our [contributing guide](https://github.com/pers
 ## Questions? 
 
 As always, if you have any questions, comments, or concerns please feel free to email us at dev@personafm.com, open an Github issue, respond to a Github Discussion, or DM us on Instagram @personafmapp
+
+### Branding Assets
+
+You can find branding assets for Persona.fm on [Figma](https://www.figma.com/design/LLVawiL7F4SP9rlDuyGAtH/persona.fm?node-id=0-1&t=jKKWJb1SR49Q6wvV-1)
